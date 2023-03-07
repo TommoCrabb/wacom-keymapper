@@ -1,0 +1,16 @@
+{
+    "name" : "Wacom Intuos Pro M Pad pad",
+    "type" : "PAD",
+    "application" : "Krita",
+    "map" : [
+        ["Button", "1", "key +space", "Button 1: Hold & drag to pan"],
+        ["Button", "2", "key +Control_L +space", "Button 2: Hold & drag up/down to zoom"],
+        ["Button", "3", "key +Shift_L +space", "Button 3: Hold & drag left/right to rotate"],
+        ["Button", "8", "key +5", "Button 4: Tap to reset rotation"],
+        ["Button", "9", "key +m", "Button 5: Tap to mirror"],
+        ["Button", "10", "key +slash", "Button 6: Tap to toggle previous tool"],
+        ["Button", "11", "key +Shift_L", "Button 7: Hold & drag left/right to change brush size"],
+        ["Button", "12", "key +Shift_L +Return", "Button 8: Tap to toggle pup-up palette"],
+        ["Button", "13", "button +0", "UNKNOWN"]
+    ]
+}
